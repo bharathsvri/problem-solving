@@ -1,4 +1,4 @@
 The all coding for prepare on Interview.
 
-I attended the Interview from:
+For:
   * Mitrahsoft solutions private limited
